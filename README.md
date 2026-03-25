@@ -48,4 +48,5 @@ This analysis demonstrates how data-driven decision-making can:
 - Enhance customer experience  
 - Optimize cost efficiency across payment processing systems  
 
----
+## ⚠️ Note
+This project uses a simulated dataset created for demonstration purposes and does not represent any real company data.
