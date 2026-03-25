@@ -37,7 +37,7 @@ Simulated dataset representing payment transactions across multiple gateways, in
 
 - `data-Sheet1.csv` → Dataset  
 - `sql.sql` → SQL queries used for analysis  
-- `dashboard/` → Visualizations (if applicable)
+- `9GswvQM0k1LG.png/` → Visualizations 
 
 ## 🚀 Business Impact
 
