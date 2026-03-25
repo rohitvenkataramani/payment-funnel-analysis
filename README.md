@@ -5,6 +5,14 @@ End-to-end analysis of payment success rates, failure patterns, and optimization
 ## 🧠 Objective
 Analyze payment transaction data to identify success rates, failure patterns, and opportunities to improve transaction performance and cost efficiency.
 
+## 🧩 Skills Demonstrated
+
+- SQL-based data analysis on transactional datasets  
+- KPI calculation and performance tracking  
+- Failure pattern identification and root cause analysis  
+- Data visualization and dashboarding  
+- Translating data insights into business recommendations  
+
 ## 📁 Dataset
 Simulated dataset representing payment transactions across multiple gateways, including transaction status, failure reasons, and timestamps.
 
